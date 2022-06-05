@@ -3,36 +3,30 @@
 Takım 99
 
 # Ürün İle İlgili Bilgiler
-
+2d palform oyunu
 
 ## Takım Elemanları
 
 - Nisa Nur Elmas: Product Owner
-- Berker Gündoğdu: Scrum Master
-- Tarık Hatipoğlu: Team Member/Developer
-- Muhammet Serdar Sağır: Team Member/Developer
+- Muhammet Serdar Sağır: Scrum Master/Developer
 - Ümran Kayacık: Team Member/Developer
 
 ## Ürün İsmi
 
---TBD--
+Jump Jelly
 
 ## Ürün Açıklaması
 
-- Oyunumuzu her levelda zorlaşan AI'a karşı her level başında verilen weapon ve skill kombinasyonlarını tercihen seçerek ilerlenmeye çalışılan, tek seferde tüm levelların sonuna ulaşılmaya çalışılan incremental level design şeklinde tasarlıyoruz.
+- oyunumuz  2d platform oyunudur
 
 ## Ürün Özellikleri
-
-- Her levelda güçlenen AI
-- Her levelda seçilmesi gereken yeni weapon ve skill kombinasyonları
-- Her 10 levelda bir karşılaşılması gereken boss AI
-- One life, multiple levels
+ çeşitli Tuzaklar ve engeller
+ Tek can hakı bulunan ana karakter 
+ Haraketli Tuzak mekanizmaları
 
 ## Hedef Kitle
 
-- Mobile gamers
 - Casual gamers
-- 15 - 65 yaş arası mobile gamers
 
 ## Product Backlog URL
 
